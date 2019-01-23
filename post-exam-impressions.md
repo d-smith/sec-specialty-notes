@@ -12,7 +12,7 @@ First, knowing how to take an AWS certification exam helps.
 General things...
 
 * Needed a more in depth understanding of Guard Duty - the different findings types, trusted IPs, etc.
-* Need to know KMS inside and out 
+* Need to know KMS inside and out including key policies and the API capabilities
 * Need to know IAM inside and out, including policy conditions
 * Need to know all the scenarios for cross account access - anything given in IAM docs, s3 docs, and blog posts seem to be fair game.
 * Quite a few questions related to AD and the different offerings on AWS and how they federate back to on premise servers.
